@@ -27,6 +27,6 @@ namespace AppFotos.Models {
       /// Lista das fotografias associadas a uma categoria
       /// </summary>
       public ICollection<Fotografias> ListaFotografias { get; set; }
-    // TESTEEEEEE
+
    }
 }
